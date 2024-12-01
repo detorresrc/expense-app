@@ -1,0 +1,1 @@
+ALTER TABLE "expenses" ALTER COLUMN "reference_date" SET DATA TYPE date;

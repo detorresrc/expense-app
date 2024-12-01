@@ -1,0 +1,1 @@
+ALTER TABLE "expenses" ADD COLUMN "reference_date" timestamp NOT NULL;
